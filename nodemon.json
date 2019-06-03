@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_ATLAS_PWD": "7gTDrbtx7TXTn3M0",
+    "JWT": "thisispasswort"
+  }
+}

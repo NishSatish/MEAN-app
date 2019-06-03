@@ -3,4 +3,5 @@ export interface Post {
   title: String;
   content: String;
   imagePath: String;
+  creator: String;
 }
